@@ -1,0 +1,22 @@
+{
+  "name": "express_server_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmith13194/expressServer_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmith13194/expressServer_3/issues"
+  },
+  "homepage": "https://github.com/asmith13194/expressServer_3#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
